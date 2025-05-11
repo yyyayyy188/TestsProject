@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <RootNamespace>BackEnd.Tests.DataAccess</RootNamespace>
+        <AssemblyName>BackEnd.Tests.DataAccess</AssemblyName>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="../../Infrastructure/Infrastructure/Infrastructure.csproj" />
+        <ProjectReference Include="../../Infrastructure/Migrations/Migrations.csproj" />
+    </ItemGroup>
+</Project>

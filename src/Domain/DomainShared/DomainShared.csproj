@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>BackEnd.Domain.DomainShared</RootNamespace>
+    <AssemblyName>BackEnd.Domain.DomainShared</AssemblyName>
+  </PropertyGroup>
+
+
+</Project>
